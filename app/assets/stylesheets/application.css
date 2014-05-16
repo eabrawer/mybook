@@ -16,3 +16,8 @@
 body {
 	padding-top: 40px;
 }
+
+.nav li{
+	display: inline-block;
+	margin-top: 5px;
+}
